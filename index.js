@@ -25,4 +25,6 @@ function attemptTwoFavoriteCustomers() {
   //let favoriteCustomer;
   //throw new SyntaxError('Flatiron Fix your tests, before wasting our time!', 'someFile.js', 10);
   //let favoriteCustomer;
+  let favoriteCustomer = 'bar'
+  let favoriteCustomer = 'not bar'
 }
